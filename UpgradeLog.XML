@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?>
+<UpgradeLog>
+<Properties><Property Name="Solution" Value="SimpleSend">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\root\Desktop\SimpleSendSource\SimpleSend.sln">
+</Property><Property Name="Date" Value="05 September 2006">
+</Property><Property Name="Time" Value="03:53">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SimpleSend.sln" Description="File successfully backed up as C:\Documents and Settings\root\Desktop\SimpleSendSource\Backup\SimpleSend.sln">
+</Event><Event ErrorLevel="0" Project="SimpleSend" Source="SimpleSend.vbproj" Description="Project file successfully backed up as C:\Documents and Settings\root\Desktop\SimpleSendSource\Backup\SimpleSend.vbproj">
+</Event><Event ErrorLevel="0" Project="SimpleSend" Source="SimpleSend.vbproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\root\Desktop\SimpleSendSource\Backup\SimpleSend.vbproj.user">
+</Event><Event ErrorLevel="0" Project="SimpleSend" Source="AssemblyInfo.vb" Description="File successfully backed up as C:\Documents and Settings\root\Desktop\SimpleSendSource\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="SimpleSend" Source="frmMessenger.vb" Description="File successfully backed up as C:\Documents and Settings\root\Desktop\SimpleSendSource\Backup\frmMessenger.vb">
+</Event><Event ErrorLevel="0" Project="SimpleSend" Source="Send.ico" Description="File successfully backed up as C:\Documents and Settings\root\Desktop\SimpleSendSource\Backup\Send.ico">
+</Event><Event ErrorLevel="0" Project="SimpleSend" Source="frmMessenger.resx" Description="File successfully backed up as C:\Documents and Settings\root\Desktop\SimpleSendSource\Backup\frmMessenger.resx">
+</Event><Event ErrorLevel="0" Project="SimpleSend" Source="SimpleSend.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SimpleSend" Source="SimpleSend.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SimpleSend.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SimpleSend.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SimpleSend" Source="SimpleSend.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

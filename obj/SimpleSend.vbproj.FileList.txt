@@ -1,0 +1,9 @@
+bin\SimpleSend.exe
+bin\SimpleSend.pdb
+bin\SimpleSend.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SimpleSend.frmMsnGers.resources
+obj\Debug\SimpleSend.vbproj.GenerateResource.Cache
+obj\Debug\SimpleSend.exe
+obj\Debug\SimpleSend.xml
+obj\Debug\SimpleSend.pdb
