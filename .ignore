@@ -1,0 +1,8 @@
+# Created automatically by the Visual Studio Conversion Wizard: pre-upgrade copies of the project (see UpgradeLog*.XML and _UpgradeReport_Files).
+Backup/
+_UpgradeReport_Files/
+UpgradeLog*.XML
+
+# MSBuild build output.
+bin/
+obj/
