@@ -1,5 +1,9 @@
 # Simple Send
 
+<p align="center">
+  <img src=".github/logo.png" alt="simple-send-source logo" width="128" />
+</p>
+
 Source code for Simple Send, a Windows Forms frontend for the
 `net send` messenger command.
 
