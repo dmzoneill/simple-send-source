@@ -1,11 +1,11 @@
 # Simple Send
 
-Source code for Simple Send, a Windows Forms front end for the
+Source code for Simple Send, a Windows Forms frontend for the
 `net send` messenger command.
 
 ## What it does
 
-1. Select recipients from a list of computer or user names, adding or
+1. Select recipients from a list of computer or usernames, adding or
    removing names manually and saving the list.
 2. Type the message text.
 3. Click **Send**. The message is split into chunks and delivered to
